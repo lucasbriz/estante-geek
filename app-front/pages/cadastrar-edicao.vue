@@ -1,6 +1,6 @@
 <template>
     <div>
         <NavbarModel />
-        <h1>teste</h1>
+        <h1>Cadastrar Edição</h1>
     </div>
 </template>
